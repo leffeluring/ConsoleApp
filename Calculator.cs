@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-    internal class Car
+    internal class Calculator
     {
+        int number;
+        int number2;
+
+        public Calculator(){
+           
+
+}
+
+
     }
 }
